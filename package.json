@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-s2s-action-builders",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "generate declaration of action name",
   "main": "lib/index.js",
   "license": "MIT",
